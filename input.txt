@@ -1,6 +1,3 @@
-automate clima clima_miClima2 {
-  cuando temperatura sube de 30 activar riego;
-  imprimir "Temperatura alta" cada 3 minutos;
+automate clima miClima{
+  imprimir "Frio" cada 5 min;
 }
-
-

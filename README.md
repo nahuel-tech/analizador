@@ -189,6 +189,8 @@ clima_oficina.respuesta("temperatura", 20, "riego");
 clima_oficina.imprimir("Temperatura baja", 10);
 ```
 ---
+## Ejemplos Invalidos
+
 Ejemplo 3 invalido
 
 ```bash
